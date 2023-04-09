@@ -2,8 +2,7 @@
 
 Date: April 8, 2023
 
-We want to continue to encourage our community participation in all topics DEF CON and DEFCON Furs. In the last few weeks, we have seen our chat become a hotbed of negative unrest and anxiety, this is quite a departure from our core rule of being excellent to each other.  By our count, there are more negative posts than those offering a solution.
-Like the rest of you, we aren’t the biggest fan of more rules, but…
+We want to continue to encourage our community participation in all topics DEF CON and DEFCON Furs.
 
 To help us keep our chat on track we are enacting the following code of conduct for all posts in the chat:
 
