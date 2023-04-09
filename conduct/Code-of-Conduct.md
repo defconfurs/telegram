@@ -9,7 +9,8 @@ To help us keep our chat on track we are enacting the following code of conduct 
 1) Nazis, white supremacists, other bigots, and their sympathizers have no place in our community and will be removed on site.
 2) Ad hominems or personal attacks, or arguing in bad faith, will warrant moderation action. We are a diverse and thriving community, please practice tolerance and acceptance
 3) Participating in this chat means you agree to follow the rules.
-4) All moderator actions may be appealed to any moderator.
+
+* All moderator actions may be appealed to any moderator.
 
 We are also enacting the following CoC for our moderators
 
@@ -21,5 +22,5 @@ All moderators are empowered to operate independently. When a member brings you 
 4) repeating above, All moderators are empowered to operate independently. Since their actions are auditable, we can handle appeals and inappropriate moderation actions more effectively.
 
 We have changed the way we are using our primary moderation tool.
-1) We have enabled by the moderation log features of Grey Wolf
-2) We are logging all moderator actions concerning our chat whether inside or outside out chat
+* We have enabled by the moderation log features of Grey Wolf
+* We are logging all moderator actions concerning our chat whether inside or outside out chat
