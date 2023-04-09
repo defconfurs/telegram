@@ -11,7 +11,7 @@ To help us keep our chat on track we are enacting the following code of conduct 
 3) Participating in this chat means you agree to follow the rules.
 4) All moderator actions may be appealed to any moderator.
 
-We are also enacting a CoC for our admins
+We are also enacting the following CoC for our moderators
 
 All moderators are empowered to operate independently. When a member brings you an issue either deal with it as soon as you can. Any issue be delegated to a fellow moderator. If you delegate it, let the requestor know who you delegated it to and why.
 
