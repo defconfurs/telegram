@@ -10,7 +10,7 @@ To help us keep our chat on track we are enacting the following code of conduct 
 2) Ad hominems or personal attacks, or arguing in bad faith, will warrant moderation action. We are a diverse and thriving community, please practice tolerance and acceptance
 3) Participating in this chat means you agree to follow the rules.
 
-* All moderator actions may be appealed to any moderator.
+_All moderator actions may be appealed to any moderator_
 
 We are also enacting the following CoC for our moderators
 
