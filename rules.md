@@ -18,21 +18,21 @@ We want to continue to encourage our community participation in all topics DEF C
 
 If you enjoy our community, we encourage you to stick around and keep sharing.
 
-There are several topics that are creating the bulk of the negative feels.  The following topics are not banned.  We would appreciate your _consideration and sensitivity_ for our larger community when discussing the following**:**
+There are several topics that are creating the bulk of the negative feels.  The following topics are not banned.  We would appreciate your _consideration and sensitivity_ for our larger community when discussing the following:
 
-Covid-19 / Coronavirus
+* Covid-19 / Coronavirus
 
-political figures / elections
+* political figures / elections
 
-religion
+* religion
 
-government action / laws
+* government action / laws
 
-depression
+* depression
 
-death / suicide / suicide jokes
+* death / suicide / suicide jokes
 
-“Everyone is stupid” points of view
+* “Everyone is stupid” points of view
 
 ****
 
